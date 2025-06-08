@@ -1,0 +1,13 @@
+# Ignorar archivos del IDE (IntelliJ IDEA)
+.idea/
+*.iml
+
+# Ignorar archivos de compilación de Java
+*.class
+/out/
+/build/
+
+# Ignorar logs, archivos temporales
+*.log
+*.tmp
+*.swp
